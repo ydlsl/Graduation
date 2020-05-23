@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoPlugin.h

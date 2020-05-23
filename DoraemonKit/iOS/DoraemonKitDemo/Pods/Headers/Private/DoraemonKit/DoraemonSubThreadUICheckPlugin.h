@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/DoraemonSubThreadUICheckPlugin.h

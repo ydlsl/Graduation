@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Core/Plugin/Common/H5/QRCode/DoraemonQRScanView.h

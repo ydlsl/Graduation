@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Core/Plugin/Platform/Mock/DoraemonMockPlugin.h

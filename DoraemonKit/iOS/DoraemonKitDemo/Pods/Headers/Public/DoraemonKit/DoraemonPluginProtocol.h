@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Core/Plugin/Protocol/DoraemonPluginProtocol.h

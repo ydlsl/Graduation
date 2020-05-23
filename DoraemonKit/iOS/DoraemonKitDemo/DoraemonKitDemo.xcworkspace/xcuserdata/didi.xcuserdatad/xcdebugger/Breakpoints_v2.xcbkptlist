@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04E068AB-4B1E-4BA4-B2B9-336064D341C4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE33D537-70E0-43DA-A2DE-A0521AD09838"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoraemonKitDemo/DemoVC/Net/DoraemonDemoNetViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "-mockTest"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE33D537-70E0-43DA-A2DE-A0521AD09838 - 3ad99d2e9d524214"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[DoraemonDemoNetViewController mockTest]"
+                  moduleName = "DoraemonKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/didi/ydAdd/school/code/DoraemonKit/iOS/DoraemonKitDemo/DoraemonKitDemo/DemoVC/Net/DoraemonDemoNetViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "BE33D537-70E0-43DA-A2DE-A0521AD09838 - f67db23df3fdfad"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[DoraemonDemoNetViewController mockTest]_block_invoke"
+                  moduleName = "DoraemonKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/didi/ydAdd/school/code/DoraemonKit/iOS/DoraemonKitDemo/DoraemonKitDemo/DemoVC/Net/DoraemonDemoNetViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
